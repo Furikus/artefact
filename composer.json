@@ -1,0 +1,11 @@
+{
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://test-sfera.mos.ru/api/composer/EgorGit"
+        },
+        {
+            "packagist.org": false
+        }
+    ]
+}
